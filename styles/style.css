@@ -1,0 +1,26 @@
+html {
+  font-size: 26px;
+  color: white;
+  link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap" rel="stylesheet">; 
+  background-color: blue;
+  margin:60px;
+}
+body{
+with:800px;
+background-color: grey;
+padding:10px 10px 10px 30px;
+border: 24px solid yellow;
+}
+h1 {
+  font-size: 36px;
+  text-align: center;
+  color: white;
+}
+li{
+font-size: 32px;
+text-align: left;
+color: yellow;
+}
+a{
+color: orange
+}
